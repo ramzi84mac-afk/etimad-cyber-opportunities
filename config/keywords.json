@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "GRC": ["grc", "governance", "حوكمة", "الحوكمة", "إدارة المخاطر", "الامتثال", "nca", "sama", "cst", "ndmo", "pdpl", "iso 27001", "iso 22301", "bcm"],
+    "SOC": ["soc", "siem", "soar", "mdr", "mssp", "مركز العمليات الأمنية", "الاستجابة للحوادث", "dfir"],
+    "Security Testing": ["penetration testing", "اختبار الاختراق", "vapt", "red team", "red teaming", "vulnerability", "الثغرات"],
+    "Data Security": ["dlp", "منع تسرب البيانات", "data classification", "تصنيف البيانات", "dam", "database activity monitoring", "encryption"],
+    "IAM": ["iam", "pam", "iga", "identity and access", "إدارة الهوية والوصول", "nac", "zero trust"],
+    "Application & Network": ["waf", "api security", "ddos", "cloud security", "endpoint security", "edr", "xdr", "network security", "ot security"],
+    "Threat & Awareness": ["threat intelligence", "استخبارات التهديدات", "digital risk", "brand protection", "dark web", "security awareness", "التوعية بالأمن السيبراني", "phishing"],
+    "Cybersecurity": ["cybersecurity", "cyber security", "الأمن السيبراني", "أمن المعلومات", "information security"]
+  },
+  "exclude": ["حراسة أمنية", "حراس أمن", "أمن وسلامة", "fire safety", "physical guards"]
+}
